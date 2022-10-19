@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Richmond Kessie
+- 👀 I’m interested in Building and maintaining web applications, teaching python, data analysis with python.
+- 🌱 I’m currently learning to become a certified fullstack software engineer.
+- 💞️ I’m looking forward to collaborating with any big mind who's ready to learn more and also to work on difficult tasks. 
+- 📫 You can reach me via email: kessierich.mag@gmail.com ,tweet at me @richkmony 
+- My portfolio website is underway and the link will soon be added
